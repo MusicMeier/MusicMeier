@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **MusicM987@gmail.com**
 
-- 📄 Know about my experiences [https://learn.co/trustworthy-jest-6264/resume](https://learn.co/trustworthy-jest-6264/resume)
+- 📄 Know about my experiences by checking out my [Résumé](https://learn.co/trustworthy-jest-6264/resume)
 
 - ⚡ Fun fact **I play 7 instruments!**
 

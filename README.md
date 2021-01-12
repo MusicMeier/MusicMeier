@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Music Meier</h1>
 <h3 align="center">A passionate full stack developer from Denver, CO</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musicmeier" alt="musicmeier" /></a> </p>
-
 - 🎶 I’m currently working on [MusicTutor](https://github.com/MusicMeier/sight-singing-frontend)
 
 - 🌱 I’m currently learning **Ember, ReactNative, Python**

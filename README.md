@@ -3,11 +3,11 @@
 
 - 🎶 I’m currently working on [MusicTutor](https://github.com/MusicMeier/sight-singing-frontend)
 
-- 🌱 I’m currently learning **Ember, ReactNative, Python**
+- 🌱 I’m currently learning **Ember, ReactNative, Python, Docker**
 
 - 👯 I’m looking for collaborators on a recent project [IngredientCheck](https://github.com/MusicMeier/ingredient-backend)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MusicMeier)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/MusicMeier)
 
 - 📝 I regularly write articles on [Medium](https://musicmeier.medium.com/)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/musicmeier/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/musicmeier/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/musicmeier/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/musicmeier/" height="30" width="40" /></a>
 <a href="https://medium.com/@musicmeier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@musicmeier" height="30" width="40" /></a>
 </p>
 

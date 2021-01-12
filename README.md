@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/MusicMeier)
 
-- 📝 I regularly write articles on [https://musicmeier.medium.com/](https://musicmeier.medium.com/)
+- 📝 I regularly write articles on [Medium](https://musicmeier.medium.com/)
 
 - 💬 Ask me about **React, JavaSript, Node.js and MongoDB**
 

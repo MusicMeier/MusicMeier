@@ -3,7 +3,7 @@
 
 - 🎶 I’m currently working on [MusicTutor](https://github.com/MusicMeier/sight-singing-frontend)
 
-- 🌱 I’m currently learning **Ember, ReactNative, Python, Docker**
+- 🌱 I’m currently learning **Ember, ReactNative, Python, and Docker**
 
 - 👯 I’m looking for collaborators on a recent project [IngredientCheck](https://github.com/MusicMeier/ingredient-backend)
 

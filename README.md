@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Ember, ReactNative, Python**
 
-- 👯 I’m looking to collaborate on [https://github.com/MusicMeier/ingredient-backend](https://github.com/MusicMeier/ingredient-backend)
+- 👯 I’m looking for collaborators on a recent project [IngredientCheck](https://github.com/MusicMeier/ingredient-backend)
 
-- 🤝 I’m looking for help with [IngredientCheck](https://github.com/MusicMeier/ingredient-backend)
-
-- 👨‍💻 All of my projects are available at [https://github.com/MusicMeier](https://github.com/MusicMeier)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MusicMeier)
 
 - 📝 I regularly write articles on [https://musicmeier.medium.com/](https://musicmeier.medium.com/)
 
